@@ -52,12 +52,3 @@ if (jokowidodo > 0 && jokowidodo%2 === 0){
     else if (jokowidodo === 0){
         console.log ("Nol")
     }
-
-
-
-
-
-
-
-
-    
