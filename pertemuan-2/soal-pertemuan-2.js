@@ -5,8 +5,8 @@
 // str1 = "halo", str2 = "dunia" → Gabungan: halodunia, Panjang: 9
 // str1 = "a", str2 = "b"         → Gabungan: ab, Panjang: 2
 // str1 = "123", str2 = "456"     → Gabungan: 123456, Panjang: 6
-let str = "jawa"
-str += " kontol"
+let str = "palembang"
+str += " rendang"
  console.log(str)
 
 
@@ -52,3 +52,4 @@ if (jokowidodo > 0 && jokowidodo%2 === 0){
     else if (jokowidodo === 0){
         console.log ("Nol")
     }
+
